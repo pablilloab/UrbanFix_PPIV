@@ -1,0 +1,64 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs\u002BA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45645"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs\u002BA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 14:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.l4osj0nklk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l4osj0nklk"},{"Name":"integrity","Value":"sha256-2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs\u002BA="},{"Name":"label","Value":"_content/UrbanFix.Server/imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45645"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs\u002BA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 14:17:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7qaWHSqiilH\u002Bd2Es2L88BEmK2zzN102cIXKPDVj3umE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"141354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227qaWHSqiilH\u002Bd2Es2L88BEmK2zzN102cIXKPDVj3umE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 21:31:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.m7439yzuop.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m7439yzuop"},{"Name":"integrity","Value":"sha256-7qaWHSqiilH\u002Bd2Es2L88BEmK2zzN102cIXKPDVj3umE="},{"Name":"label","Value":"_content/UrbanFix.Server/imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"141354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227qaWHSqiilH\u002Bd2Es2L88BEmK2zzN102cIXKPDVj3umE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 30 Mar 2025 21:31:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4372"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 20:16:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.lizeiigcgi.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lizeiigcgi"},{"Name":"integrity","Value":"sha256-s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA="},{"Name":"label","Value":"_content/UrbanFix.Server/imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4372"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 20:16:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.05cd5vgm27.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"05cd5vgm27"},{"Name":"integrity","Value":"sha256-TAD0ZifLW6Ww1dOV8\u002Bk1WIc/dZ4f0FGVcUP7DpaSqfA="},{"Name":"label","Value":"_content/UrbanFix.Server/imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8998495"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TAD0ZifLW6Ww1dOV8\u002Bk1WIc/dZ4f0FGVcUP7DpaSqfA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 14:17:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TAD0ZifLW6Ww1dOV8\u002Bk1WIc/dZ4f0FGVcUP7DpaSqfA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8998495"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TAD0ZifLW6Ww1dOV8\u002Bk1WIc/dZ4f0FGVcUP7DpaSqfA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 14:17:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"856628"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 18:22:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/UrbanFix.Server/imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.mn8y8cfz8p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagenes\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mn8y8cfz8p"},{"Name":"integrity","Value":"sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="},{"Name":"label","Value":"_content/UrbanFix.Server/imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"856628"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 18:22:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

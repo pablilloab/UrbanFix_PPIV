@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "Hash": "F/zCUD0i8zjwEJxo7Y1xXOkNZqfwdIvSWrHCwzPA6XE=",
+  "Source": "UrbanFix.Server",
+  "BasePath": "_content/UrbanFix.Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\urbanfix.client\\urbanfix.client.esproj",
+      "Version": 2,
+      "Source": "urbanfix.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Release;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UrbanFix.Server\\wwwroot",
+      "Source": "UrbanFix.Server",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l4osj0nklk",
+      "Integrity": "2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m7439yzuop",
+      "Integrity": "7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lizeiigcgi",
+      "Integrity": "s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "05cd5vgm27",
+      "Integrity": "TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mn8y8cfz8p",
+      "Integrity": "UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45645"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.l4osj0nklk.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45645"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l4osj0nklk"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 21:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.m7439yzuop.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 21:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7439yzuop"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 20:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.lizeiigcgi.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 20:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lizeiigcgi"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.05cd5vgm27.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8998495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "05cd5vgm27"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8998495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.mn8y8cfz8p.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mn8y8cfz8p"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    }
+  ]
+}

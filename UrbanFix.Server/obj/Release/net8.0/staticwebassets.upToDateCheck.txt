@@ -1,0 +1,5 @@
+wwwroot\imagenes\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg
+wwwroot\imagenes\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg
+wwwroot\imagenes\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg
+wwwroot\imagenes\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg
+wwwroot\imagenes\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg

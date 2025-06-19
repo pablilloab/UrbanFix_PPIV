@@ -1,0 +1,1579 @@
+{
+  "Version": 1,
+  "Hash": "wePPpBupffP119Z+ZF9y/fqPYOeKbh3Ecvk+TJIo1dg=",
+  "Source": "UrbanFix.Server",
+  "BasePath": "_content/UrbanFix.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\urbanfix.client\\urbanfix.client.esproj",
+      "Version": 2,
+      "Source": "urbanfix.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UrbanFix.Server\\wwwroot",
+      "Source": "UrbanFix.Server",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l4osj0nklk",
+      "Integrity": "2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m7439yzuop",
+      "Integrity": "7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lizeiigcgi",
+      "Integrity": "s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mn8y8cfz8p",
+      "Integrity": "UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pghljui9n2",
+      "Integrity": "qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\65222e20-ec8a-4171-ad52-0ff2eb37c859_images.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/65222e20-ec8a-4171-ad52-0ff2eb37c859_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pghljui9n2",
+      "Integrity": "qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\65222e20-ec8a-4171-ad52-0ff2eb37c859_images.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mn8y8cfz8p",
+      "Integrity": "UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\a61c0efc-aa68-4bb1-bb30-4a23610104f3_images.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/a61c0efc-aa68-4bb1-bb30-4a23610104f3_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pghljui9n2",
+      "Integrity": "qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\a61c0efc-aa68-4bb1-bb30-4a23610104f3_images.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cae8856b-7388-4f44-bfff-56edb8f7c55b_images.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/cae8856b-7388-4f44-bfff-56edb8f7c55b_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pghljui9n2",
+      "Integrity": "qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\cae8856b-7388-4f44-bfff-56edb8f7c55b_images.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cb8db107-108e-4e98-977d-28b8e4208217_images.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/cb8db107-108e-4e98-977d-28b8e4208217_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pghljui9n2",
+      "Integrity": "qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\cb8db107-108e-4e98-977d-28b8e4208217_images.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cf35a66d-6154-4a50-bf7d-86563ccfee83_21267.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/cf35a66d-6154-4a50-bf7d-86563ccfee83_21267#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h995r05uc2",
+      "Integrity": "23ZtNynCAe62ld3s11feq8XC37Nlp4p/OFjtvZ5Tk14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\cf35a66d-6154-4a50-bf7d-86563ccfee83_21267.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pghljui9n2",
+      "Integrity": "qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images.jpeg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "05cd5vgm27",
+      "Integrity": "TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mn8y8cfz8p",
+      "Integrity": "UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg"
+    },
+    {
+      "Identity": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\fdd3de07-d02f-4d73-835b-5772695d24d5_images.jpeg",
+      "SourceId": "UrbanFix.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\",
+      "BasePath": "_content/UrbanFix.Server",
+      "RelativePath": "imagenes/fdd3de07-d02f-4d73-835b-5772695d24d5_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pghljui9n2",
+      "Integrity": "qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\fdd3de07-d02f-4d73-835b-5772695d24d5_images.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45645"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.l4osj0nklk.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45645"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l4osj0nklk"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/085fe714-705c-4088-ac19-fc2fbd3e22be_bache calle.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zMYL8HR19jwuHCzzooGEHBsTJ2WtXIXuuZ8EnMUs+A="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 21:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.m7439yzuop.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 30 Mar 2025 21:31:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7439yzuop"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/19d520c0-cc95-4f58-a81d-433d62a22622_vereda rota.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7qaWHSqiilH+d2Es2L88BEmK2zzN102cIXKPDVj3umE="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 20:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.lizeiigcgi.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 20:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lizeiigcgi"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/5069b6be-7a9b-4cfe-a38b-788e5bcf6c73_caballos_sueltos.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s3p010GEaAqQJAhCi4kyMzMP1jqHHK6FTdMmRMEmylA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 23:24:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota.mn8y8cfz8p.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 23:24:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mn8y8cfz8p"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/516f8eed-b7ba-455d-8a1e-b3c1a2a8df18_vereda rota.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images.pghljui9n2.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:16:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pghljui9n2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/5cce3bf5-a38d-4d94-a47b-26a2c5879c62_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/65222e20-ec8a-4171-ad52-0ff2eb37c859_images.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\65222e20-ec8a-4171-ad52-0ff2eb37c859_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:35:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/65222e20-ec8a-4171-ad52-0ff2eb37c859_images.pghljui9n2.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\65222e20-ec8a-4171-ad52-0ff2eb37c859_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:35:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pghljui9n2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/65222e20-ec8a-4171-ad52-0ff2eb37c859_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 21:54:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota.mn8y8cfz8p.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 21:54:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mn8y8cfz8p"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/694a30ca-eee2-44ef-9d3c-2a59472e9f33_vereda rota.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/a61c0efc-aa68-4bb1-bb30-4a23610104f3_images.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\a61c0efc-aa68-4bb1-bb30-4a23610104f3_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/a61c0efc-aa68-4bb1-bb30-4a23610104f3_images.pghljui9n2.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\a61c0efc-aa68-4bb1-bb30-4a23610104f3_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:42:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pghljui9n2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/a61c0efc-aa68-4bb1-bb30-4a23610104f3_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/cae8856b-7388-4f44-bfff-56edb8f7c55b_images.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cae8856b-7388-4f44-bfff-56edb8f7c55b_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/cae8856b-7388-4f44-bfff-56edb8f7c55b_images.pghljui9n2.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cae8856b-7388-4f44-bfff-56edb8f7c55b_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:38:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pghljui9n2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/cae8856b-7388-4f44-bfff-56edb8f7c55b_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/cb8db107-108e-4e98-977d-28b8e4208217_images.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cb8db107-108e-4e98-977d-28b8e4208217_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:10:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/cb8db107-108e-4e98-977d-28b8e4208217_images.pghljui9n2.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cb8db107-108e-4e98-977d-28b8e4208217_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:10:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pghljui9n2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/cb8db107-108e-4e98-977d-28b8e4208217_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/cf35a66d-6154-4a50-bf7d-86563ccfee83_21267.h995r05uc2.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cf35a66d-6154-4a50-bf7d-86563ccfee83_21267.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "569633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"23ZtNynCAe62ld3s11feq8XC37Nlp4p/OFjtvZ5Tk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:47:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h995r05uc2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/cf35a66d-6154-4a50-bf7d-86563ccfee83_21267.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-23ZtNynCAe62ld3s11feq8XC37Nlp4p/OFjtvZ5Tk14="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/cf35a66d-6154-4a50-bf7d-86563ccfee83_21267.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\cf35a66d-6154-4a50-bf7d-86563ccfee83_21267.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "569633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"23ZtNynCAe62ld3s11feq8XC37Nlp4p/OFjtvZ5Tk14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:47:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-23ZtNynCAe62ld3s11feq8XC37Nlp4p/OFjtvZ5Tk14="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:20:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images.pghljui9n2.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:20:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pghljui9n2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/df9c2838-8942-4f5b-8949-4a6c01ef9f4f_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.05cd5vgm27.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8998495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "05cd5vgm27"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\e74efd86-f480-4bea-9042-f16697e55cc3_residuos_calle.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8998495"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:17:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TAD0ZifLW6Ww1dOV8+k1WIc/dZ4f0FGVcUP7DpaSqfA="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.mn8y8cfz8p.jpg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "856628"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:22:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mn8y8cfz8p"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/f6e45f25-6298-4dba-a918-ed6786444b1a_vereda rota.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UsgV7FxNyxMoON8dATkMAFBinswW5hg1v4OSfiGb0sk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/fdd3de07-d02f-4d73-835b-5772695d24d5_images.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\fdd3de07-d02f-4d73-835b-5772695d24d5_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:18:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/fdd3de07-d02f-4d73-835b-5772695d24d5_images.pghljui9n2.jpeg",
+      "AssetFile": "C:\\Desarrollos\\UrbanFix\\UrbanFix.Server\\wwwroot\\imagenes\\fdd3de07-d02f-4d73-835b-5772695d24d5_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:18:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pghljui9n2"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/fdd3de07-d02f-4d73-835b-5772695d24d5_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qdbT/YTzfMY+NstcY5+md25i66f4GbIB3kWGPO+ULOw="
+        }
+      ]
+    }
+  ]
+}
